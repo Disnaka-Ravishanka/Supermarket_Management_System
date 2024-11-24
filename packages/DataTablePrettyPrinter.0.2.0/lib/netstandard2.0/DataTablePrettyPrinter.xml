@@ -1,0 +1,681 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataTablePrettyPrinter</name>
+    </assembly>
+    <members>
+        <member name="T:DataTablePrettyPrinter.Border">
+            <summary>
+            Enumerates the border flags of the text represented by a <see cref="T:System.Data.DataTable"/> which is to be drawn on a
+            pretty printed string.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.Border.None">
+            <summary>
+            No border.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.Border.Bottom">
+            <summary>
+            Bottom border.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.Border.Left">
+            <summary>
+            Left border.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.Border.Right">
+            <summary>
+            Right border.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.Border.Top">
+            <summary>
+            Top border.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.Border.All">
+            <summary>
+            All borders.
+            </summary>
+        </member>
+        <member name="T:DataTablePrettyPrinter.CharExtensions">
+            <summary>
+            An extension class providing <see cref="T:System.Char"/> utility methods for pretty printing to a string.
+            </summary>
+        </member>
+        <member name="M:DataTablePrettyPrinter.CharExtensions.DrawBorder(System.Char[0:,0:],System.Int32,System.Int32,System.Int32,System.Int32,DataTablePrettyPrinter.Border)">
+             <summary>
+             Draws a border on a canvas given a bounding box specified by coordinates.
+             </summary>
+            
+             <param name="canvas">
+             The canvas to draw on which is assumed to be large enough.
+             </param>
+            
+             <param name="x1">
+             The x coordinate of the beginning of the bounding box to draw.
+             </param>
+            
+             <param name="y1">
+             The y coordinate of the beginning of the bounding box to draw.
+             </param>
+            
+             <param name="x2">
+             The x coordinate of the end of the bounding box to draw.
+             </param>
+            
+             <param name="y2">
+             The y coordinate of the end of the bounding box to draw.
+             </param>
+            
+             <param name="border">
+             The border flags which dictate which border to draw.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.CharExtensions.DrawLine(System.Char[0:,0:],System.Int32,System.Int32,System.Int32,System.Int32)">
+             <summary>
+             Draws a line on a canvas given a beginning and an end coordinate.
+             </summary>
+            
+             <param name="canvas">
+             The canvas to draw on which is assumed to be large enough.
+             </param>
+            
+             <param name="x1">
+             The x coordinate of the beginning of the line to draw.
+             </param>
+            
+             <param name="y1">
+             The y coordinate of the beginning of the line to draw.
+             </param>
+            
+             <param name="x2">
+             The x coordinate of the end of the line to draw.
+             </param>
+            
+             <param name="y2">
+             The y coordinate of the end of the line to draw.
+             </param>
+            
+             <remarks>
+             If this line crosses any other line drawn on the canvas then a '+' is inserted on the crossing boundary.
+             </remarks>
+            
+             <exception cref="T:System.ArgumentException">
+             Thrown when the line is neither horizontal nor vertical.
+             </exception>
+        </member>
+        <member name="M:DataTablePrettyPrinter.CharExtensions.DrawText(System.Char[0:,0:],System.Int32,System.Int32,System.Int32,System.Int32,System.String,DataTablePrettyPrinter.TextAlignment)">
+             <summary>
+             Draws a string on a canvas with alignment specified.
+             </summary>
+            
+             <param name="canvas">
+             The canvas to draw on which is assumed to be large enough.
+             </param>
+            
+             <param name="x1">
+             The x coordinate of the beginning of the string to draw.
+             </param>
+            
+             <param name="y1">
+             The y coordinate of the beginning of the string to draw.
+             </param>
+            
+             <param name="x2">
+             The x coordinate of the end of the string to draw.
+             </param>
+            
+             <param name="y2">
+             The y coordinate of the end of the string to draw.
+             </param>
+            
+             <param name="text">
+             The text to draw.
+             </param>
+            
+             <param name="alignment">
+             The alignment of the <paramref name="text"/> to draw.
+             </param>
+            
+             <remarks>
+             If the text cannot be contained within the bounding box specified by the coordinates then either nothing is
+             drawn or the input string is truncated and '..' is added to the end.
+             </remarks>
+        </member>
+        <member name="T:DataTablePrettyPrinter.DataColumnExtensions">
+            <summary>
+            An extension class providing <see cref="T:System.Data.DataColumn"/> utility methods for pretty printing to a string.
+            </summary>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetDataBorder(System.Data.DataColumn)">
+             <summary>
+             Gets the border around the data area of the column.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <returns>
+             The border around the data area of the column.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetDataBorder(System.Data.DataColumn,DataTablePrettyPrinter.Border)">
+             <summary>
+             Sets the border around the data area of the column.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetDataAlignment(System.Data.DataColumn)">
+             <summary>
+             Gets the text alignment of the data in this column.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <returns>
+             Gets the data alignment.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetDataAlignment(System.Data.DataColumn,DataTablePrettyPrinter.TextAlignment)">
+             <summary>
+             Sets the text alignment of the data in this column.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetDataTextFormat(System.Data.DataColumn)">
+             <summary>
+             Gets the formatting method which given a column and row formats the data of the cell into a string. This
+             API can be used for arbitrary formatting of induvidual data cells.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <returns>
+             The method which formats the data cell.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetDataTextFormat(System.Data.DataColumn,System.Func{System.Data.DataColumn,System.Data.DataRow,System.String})">
+             <summary>
+             Sets the formatting method which given a column and row formats the data of the cell into a string. This
+             API can be used for arbitrary formatting of induvidual data cells.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="value">
+             The method used to format the data cell which will be called during pretty printing of the table.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetHeaderBorder(System.Data.DataColumn)">
+             <summary>
+             Gets the border around the column header area which displays the column names.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <returns>
+             The border around the column header area.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetHeaderBorder(System.Data.DataColumn,DataTablePrettyPrinter.Border)">
+             <summary>
+             Sets the border around the column header area which displays the column names.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetColumnNameAlignment(System.Data.DataColumn)">
+             <summary>
+             Gets the <see cref="P:System.Data.DataColumn.ColumnName"/> text alignment.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <returns>
+             Gets the column name text alignment.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetColumnNameAlignment(System.Data.DataColumn,DataTablePrettyPrinter.TextAlignment)">
+             <summary>
+             Sets the <see cref="P:System.Data.DataColumn.ColumnName"/> text alignment.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetShowColumnName(System.Data.DataColumn)">
+             <summary>
+             Gets whether to show the <see cref="P:System.Data.DataTable.TableName"/>.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <returns>
+             <c>true</c> if the column name is to be shown; <c>false</c> otherwise.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetShowColumnName(System.Data.DataColumn,System.Boolean)">
+             <summary>
+             Sets whether to show the <see cref="P:System.Data.DataTable.TableName"/>.
+             </summary>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetWidth(System.Data.DataColumn)">
+             <summary>
+             Gets the width (in characters) of this column as it would appear on the pretty printed table.
+             </summary>
+            
+             <param name="column">
+             The input column.
+             </param>
+            
+             <returns>
+             The width (in characters) of this column which is retrieved either by user defined value or the aggregate
+             maximum width of any row in the table.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetWidth(System.Data.DataColumn,System.Int32)">
+             <summary>
+             Sets the width (in characters) of this column as it would appear on the pretty printed table.
+             </summary>
+            
+             <param name="column">
+             The input column.
+             </param>
+            
+             <param name="value">
+             The value to set which will be clamped to be at least 1.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetDataX1(System.Data.DataColumn)">
+             <summary>
+             Gets the beginning X coordinate of the data area of this column.
+             </summary>
+            
+             <param name="column">
+             The input column.
+             </param>
+            
+             <returns>
+             The X coordinate of the beginning of the data area.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetDataX2(System.Data.DataColumn)">
+             <summary>
+             Gets the end X coordinate of the data area of this column.
+             </summary>
+            
+             <param name="column">
+             The input column.
+             </param>
+            
+             <returns>
+             The X coordinate of the end of the data area.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetDataY1(System.Data.DataColumn)">
+             <summary>
+             Gets the beginning Y coordinate of the data area of this column.
+             </summary>
+            
+             <param name="column">
+             The input column.
+             </param>
+            
+             <returns>
+             The Y coordinate of the beginning of the data area.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetDataY2(System.Data.DataColumn)">
+             <summary>
+             Gets the end Y coordinate of the data area of this column.
+             </summary>
+            
+             <param name="column">
+             The input column.
+             </param>
+            
+             <returns>
+             The Y coordinate of the end of the data area.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.GetExtendedProperty``1(System.Data.DataColumn,System.String,``0)">
+             <summary>
+             Gets an extended property from the <see cref="T:System.Data.DataColumn"/> with a default value if it does not exist.
+             </summary>
+            
+             <typeparam name="T">
+             The type of the value to get.
+             </typeparam>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="property">
+             The extended property to get.
+             </param>
+            
+             <param name="defaultValue">
+             The default value to return if the extended property does not exist.
+             </param>
+            
+             <returns>
+             The value of the extended property if it exists; <paramref name="defaultValue"/> otherwise.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataColumnExtensions.SetExtendedProperty``1(System.Data.DataColumn,System.String,``0)">
+             <summary>
+             Sets an extended property from the <see cref="T:System.Data.DataColumn"/>.
+             </summary>
+            
+             <typeparam name="T">
+             The type of the value to get.
+             </typeparam>
+            
+             <param name="column">
+             The column to pretty print.
+             </param>
+            
+             <param name="property">
+             The extended property to set.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="T:DataTablePrettyPrinter.DataRowExtensions">
+            <summary>
+            An extension class providing <see cref="T:System.Data.DataRow"/> utility methods for pretty printing to a string.
+            </summary>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataRowExtensions.GetWidth(System.Data.DataRow)">
+             <summary>
+             Gets the width (in characters) of this row as it would appear on the pretty printed table by aggregating
+             the widths of each individual column.
+             </summary>
+            
+             <param name="row">
+             The input row.
+             </param>
+            
+             <returns>
+             The width (in characters) of this row.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataRowExtensions.GetHeight(System.Data.DataRow)">
+             <summary>
+             Gets the height (in characters) of this row as it would appear on the pretty printed table by aggregating
+             the heights of each individual column.
+             </summary>
+            
+             <param name="row">
+             The input row.
+             </param>
+            
+             <returns>
+             The height (in characters) of this row.
+             </returns>
+        </member>
+        <member name="T:DataTablePrettyPrinter.DataTableExtensions">
+            <summary>
+            An extension class providing <see cref="T:System.Data.DataTable"/> utility methods for pretty printing to a string.
+            </summary>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.GetBorder(System.Data.DataTable)">
+             <summary>
+             Gets the border around the entire table.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <returns>
+             The border around the entire table.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.SetBorder(System.Data.DataTable,DataTablePrettyPrinter.Border)">
+             <summary>
+             Sets the border around the entire table.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.GetShowColumnHeader(System.Data.DataTable)">
+             <summary>
+             Gets whether to show the column header section which shows the column names.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <returns>
+             <c>true</c> if the column header is to be shown; <c>false</c> otherwise.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.SetShowColumnHeader(System.Data.DataTable,System.Boolean)">
+             <summary>
+             Sets whether to show the column header section which shows the column names.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.GetShowTableName(System.Data.DataTable)">
+             <summary>
+             Gets whether to show the <see cref="P:System.Data.DataTable.TableName"/>.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <returns>
+             <c>true</c> if the table title is to be shown; <c>false</c> otherwise.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.SetShowTableName(System.Data.DataTable,System.Boolean)">
+             <summary>
+             Sets whether to show the <see cref="P:System.Data.DataTable.TableName"/>.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.GetTitleTextAlignment(System.Data.DataTable)">
+             <summary>
+             Gets the text alignment of the title determined by the <see cref="P:System.Data.DataTable.TableName"/> property.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <returns>
+             Gets the title text alignment.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.SetTitleTextAlignment(System.Data.DataTable,DataTablePrettyPrinter.TextAlignment)">
+             <summary>
+             Sets the text alignment of the title determined by the <see cref="P:System.Data.DataTable.TableName"/> property.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.ToPrettyPrintedString(System.Data.DataTable)">
+             <summary>
+             Converts the <see cref="T:System.Data.DataTable"/> into pretty printed string which can be displayed on the console.
+             </summary>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <returns>
+             The pretty printed table.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.GetExtendedProperty``1(System.Data.DataTable,System.String,``0)">
+             <summary>
+             Gets an extended property from the <see cref="T:System.Data.DataTable"/> with a default value if it does not exist.
+             </summary>
+            
+             <typeparam name="T">
+             The type of the value to get.
+             </typeparam>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <param name="property">
+             The extended property to get.
+             </param>
+            
+             <param name="defaultValue">
+             The default value to return if the extended property does not exist.
+             </param>
+            
+             <returns>
+             The value of the extended property if it exists; <paramref name="defaultValue"/> otherwise.
+             </returns>
+        </member>
+        <member name="M:DataTablePrettyPrinter.DataTableExtensions.SetExtendedProperty``1(System.Data.DataTable,System.String,``0)">
+             <summary>
+             Sets an extended property from the <see cref="T:System.Data.DataTable"/>.
+             </summary>
+            
+             <typeparam name="T">
+             The type of the value to get.
+             </typeparam>
+            
+             <param name="table">
+             The table to pretty print.
+             </param>
+            
+             <param name="property">
+             The extended property to set.
+             </param>
+            
+             <param name="value">
+             The value to set.
+             </param>
+        </member>
+        <member name="T:DataTablePrettyPrinter.TextAlignment">
+            <summary>
+            Enumerates the alignment of the text represented by a <see cref="T:System.Data.DataTable"/> which is to be pretty printing to
+            a string.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.TextAlignment.Center">
+            <summary>
+            Text is centered.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.TextAlignment.Left">
+            <summary>
+            Text is aligned to the left.
+            </summary>
+        </member>
+        <member name="F:DataTablePrettyPrinter.TextAlignment.Right">
+            <summary>
+            Text is aligned to the right.
+            </summary>
+        </member>
+        <member name="T:DataTablePrettyPrinter.Utilities">
+            <summary>
+            A utility class with miscellaneous methods.
+            </summary>
+        </member>
+        <member name="M:DataTablePrettyPrinter.Utilities.Swap``1(``0@,``0@)">
+             <summary>
+             Swaps the values of <paramref name="x"/> and <paramref name="y"/>.
+             </summary>
+            
+             <typeparam name="T">
+             The type of the values to swap.
+             </typeparam>
+            
+             <param name="x">
+             The value to swap with <paramref name="y"/>.
+             </param>
+            
+             <param name="y">
+             The value to swap with <paramref name="x"/>.
+             </param>
+        </member>
+    </members>
+</doc>

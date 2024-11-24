@@ -1,0 +1,371 @@
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket app.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.Login.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.Properties.Resources.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket app.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Supermarket app.exe.config
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Supermarket app.exe
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Supermarket app.pdb
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ItachiUIBunifu.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\System.Geometry.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\System.Geometry.Text.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\UserControls.Krypton.PaletteSelectors.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\System.Geometry.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket app.csproj.CopyComplete
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket app.exe
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket app.pdb
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.Splash.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.ProductForm.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.SellerForm.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM3.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\obj\Debug\Supermarket_app.SellingForm.resources
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\DataTablePrettyPrinter.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\DataTablePrettyPrinter.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ObjectPrinter.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\ObjectPrinter.xml
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\sjhopping centre\Supermarket app\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Supermarket app.exe.config
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Supermarket app.exe
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Supermarket app.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\DataTablePrettyPrinter.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ItachiUIBunifu.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ObjectPrinter.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\System.Geometry.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\System.Geometry.Text.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\UserControls.Krypton.PaletteSelectors.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\DataTablePrettyPrinter.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ObjectPrinter.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\System.Geometry.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket app.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM3.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.Home.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.Login.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.ProductForm.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.Properties.Resources.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.SellerForm.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.SellingForm.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket_app.Splash.resources
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket app.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket app.csproj.CopyComplete
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket app.exe
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\obj\Debug\Supermarket app.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Core.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\System.CodeDom.dll
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Core.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\backup smtp\Supermarket app\bin\Debug\System.CodeDom.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Supermarket app.exe.config
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Supermarket app.exe
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Supermarket app.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\DataTablePrettyPrinter.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Core.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ItachiUIBunifu.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ObjectPrinter.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\System.CodeDom.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\System.Geometry.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\System.Geometry.Text.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\UserControls.Krypton.PaletteSelectors.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\DataTablePrettyPrinter.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Core.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ObjectPrinter.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\System.CodeDom.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\System.Geometry.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket app.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM3.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.Home.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.Login.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.ProductForm.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.Properties.Resources.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.SellerForm.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.SellingForm.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket_app.Splash.resources
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket app.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket app.csproj.CopyComplete
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket app.exe
+C:\Users\Administrator\Desktop\backup smtp\email done\Supermarket app\obj\Debug\Supermarket app.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Supermarket app.exe.config
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Supermarket app.exe
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Supermarket app.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.Licensing.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\DataTablePrettyPrinter.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Auth.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Core.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Guna.UI2.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ItachiUIBunifu.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Newtonsoft.Json.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ObjectPrinter.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.CodeDom.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Geometry.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Geometry.Text.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Numerics.Vectors.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\UserControls.Krypton.PaletteSelectors.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\stdole.dll
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\DataTablePrettyPrinter.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Auth.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Auth.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Core.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Core.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Newtonsoft.Json.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ObjectPrinter.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.CodeDom.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Geometry.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Numerics.Vectors.xml
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.csproj.AssemblyReference.cache
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM3.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Home.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Login.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.ProductForm.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Properties.Resources.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.SellerForm.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.SellingForm.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Splash.resources
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.csproj.GenerateResource.cache
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.csproj.CoreCompileInputs.cache
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.csproj.CopyComplete
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.exe
+C:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Supermarket app.exe.config
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Supermarket app.exe
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Supermarket app.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.Licensing.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\DataTablePrettyPrinter.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Auth.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Core.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Guna.UI2.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ItachiUIBunifu.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\JsonPrettyPrinterPlus.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Newtonsoft.Json.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ObjectPrinter.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.CodeDom.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Geometry.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Geometry.Text.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Numerics.Vectors.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\UserControls.Krypton.PaletteSelectors.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\stdole.dll
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Bunifu.UI.WinForms.Deprecated.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\DataTablePrettyPrinter.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Auth.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Auth.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Core.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Core.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Google.Apis.Gmail.v1.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\Newtonsoft.Json.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ObjectPrinter.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.CodeDom.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Geometry.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\System.Numerics.Vectors.xml
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.csproj.AssemblyReference.cache
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.CATEGORYFORM3.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Home.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Login.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.ProductForm.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Properties.Resources.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.SellerForm.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.SellingForm.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket_app.Splash.resources
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.csproj.GenerateResource.cache
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.csproj.CoreCompileInputs.cache
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermar.9A5214E8.Up2Date
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.exe
+D:\pytyyughgfjfggjgj\Supermarket app\obj\Debug\Supermarket app.pdb
